@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MeoEPG</string>
+    <string name="now_show_image_description">Current show</string>
+
+    <string name="next_page">Seguinte</string>
+    <string name="previous_page">Anterior</string>
+
+    <string name="no_internet_connection">Sem ligação à internet</string>
+</resources>

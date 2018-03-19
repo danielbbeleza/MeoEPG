@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="channelTitle">6sp</dimen>
+
+    <dimen name="currentShowTitle">14sp</dimen>
+
+    <dimen name="nextShowTitle">8sp</dimen>
+</resources>
